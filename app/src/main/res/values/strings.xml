@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SunsetApp</string>
+    <string name="location_home">Get city</string>
+
+    <string name="find_city">Find City</string>
+
+    <string name="google_api_key">AIzaSyChXZdDjJvZDiHfwTM_sc30wvErKKYiUFY</string>
+    <string name="autocomplete_hint">Search a Place</string>
+
+
+</resources>
